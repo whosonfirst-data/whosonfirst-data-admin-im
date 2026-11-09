@@ -39,7 +39,7 @@
         "gn:id":11591723
     },
     "wof:country":"IM",
-    "wof:geomhash":"31b3740dd1312eb5e98d99e0ac333d65",
+    "wof:geomhash":"b30913b283ee1b1b703e02cb3b466f7e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,5 +64,5 @@
     -4.60894,
     54.24093000000001
 ],
-  "geometry": {"coordinates":[-4.60894,54.24093000000001],"type":"Point"}
+  "geometry": {"coordinates":[-4.60894,54.24093],"type":"Point"}
 }
